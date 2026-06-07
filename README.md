@@ -1,0 +1,1 @@
+# bartex-strona
